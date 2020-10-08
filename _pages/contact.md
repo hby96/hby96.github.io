@@ -4,7 +4,7 @@ subtitle: Benyi Hu
 permalink: /contact/
 ---
 **Benyi Hu**  
-Technological Institute, Northwestern University  
-2145 Sheridan Rd  
-Evanston, IL 60208  
+College of Artificial Intelligence, Xi'an Jiaotong University  
+No.28, Xianning West Road 
+Xi'an, Shaanxi, 710049
 Email: [hby0906@stu.xjtu.edu.cn](mailto:hby0906@stu.xjtu.edu.cn)  
