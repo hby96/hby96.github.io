@@ -1,0 +1,12 @@
+@InProceedings{hu2020pyretri,
+  author    = {Benyi Hu and
+               Ren{-}Jie Song and
+               Xiu{-}Shen Wei and
+               Yazhou Yao and
+               Xian{-}Sheng Hua and
+               Yuehu Liu},
+  title     = {PyRetri: {A} PyTorch-based Library for Unsupervised Image Retrieval
+               by Deep Convolutional Neural Networks},
+  booktitle   = {28th ACM International Conference on Multimedia (ACM MM)},
+  year      = {2020},
+}
