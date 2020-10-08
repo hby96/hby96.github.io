@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shiyu Luo"
+title                    : "Benyi Hu"
 title_separator          : "-"
-name                     : "Shiyu Luo"
-description              : "Shiyu Luo"
-url                      : "https://shiyuLuo2019.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Benyi Hu"
+description              : "Benyi Hu"
+url                      : "https://hby96.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "shiyuLuo2019/shiyuLuo2019.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "hby96/hby96.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -83,26 +83,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shiyu Luo"
-  avatar           : "photo.jpeg"
-  bio              : "Graduate student in Computer Science at Northwestern University"
+  name             : "Benyi Hu"
+  avatar           : "photo.jpg"
+  bio              : "MS student in Control cience and Engineering at Xi'an Jiaotong University"
   location         : "Evanston, IL"
-  email            : "shiyuluo2019@u.northwestern.edu"
+  email            : "hby0906@stu.xjtu.edu.cn"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "sherry.luo.9843"
+  facebook         : #"sherry.luo.9843"
   foursquare       :
-  github           : "shiyuLuo2019"
+  github           : "hby96"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "shiyu-luo-025340122" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -268,4 +268,4 @@ defaults:
         image: /assets/images/purple-super-narrow.jpg
         image_description: "A purple header image"
       author_profile: true
-      
+

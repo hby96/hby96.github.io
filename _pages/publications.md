@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: Shiyu Luo
+subtitle: Benyi Hu
 permalink: /publications/
 ---
 

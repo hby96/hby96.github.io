@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: Shiyu Luo
+subtitle: Benyi Hu
 permalink: /projects/
 ---
 Under construction...

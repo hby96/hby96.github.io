@@ -1,10 +1,10 @@
 ---
 title: Contact
-subtitle: Shiyu Luo
+subtitle: Benyi Hu
 permalink: /contact/
 ---
-**Shiyu Luo**  
+**Benyi Hu**  
 Technological Institute, Northwestern University  
 2145 Sheridan Rd  
 Evanston, IL 60208  
-Email: [shiyuluo2019@u.northwestern.edu](mailto:shiyuluo2019@u.northwestern.edu)  
+Email: [hby0906@stu.xjtu.edu.cn](mailto:hby0906@stu.xjtu.edu.cn)  
